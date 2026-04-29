@@ -4,6 +4,9 @@ Let's build a **Traffic Light** by applying the concepts of HTML, CSS and JS.
 
 ### Refer to the below image.
 
+<div>
+  <img src="https://nkb-backend-media-static-tenxiitian.s3.ap-south-1.amazonaws.com/tenxiitian_prod/programs/Tech+Programs/frontend-content/ccbp/coding-practice-questions/dynamic-webapps/traffic-light-v1.gif" alt="traffic-light-v1">
+</div>
 
 #### Instructions:
 
